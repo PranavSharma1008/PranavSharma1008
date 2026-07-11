@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi 👋, I'm Pranav Sharma<br><br>🎓 Computer Science Engineering Student <br>💻 Passionate about Data Structures & Algorithms ,  Web Development and Ai Tools <br>🚀 Possess strong knowledge of core Computer Science fundamentals including OOP, DBMS, Operating Systems, and Computer Networks.<br>🌟 Always eager to learn new technologies and collaborate on exciting projects.<br>
 
 
