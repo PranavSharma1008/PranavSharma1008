@@ -12,7 +12,4 @@ Hi 👋, I'm Pranav Sharma<br><br>🎓 Computer Science Engineering Student <br
 ![](https://streak-stats.demolab.com/?user=PranavSharma1008&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PranavSharma1008&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PranavSharma1008&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
