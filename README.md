@@ -45,9 +45,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavsharma1008)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@CoderPranav1008)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranavsharmaportfolio.vercel.app)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SharmaPranav1008/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav2410991479@gmail.com)
 
 </div>
@@ -102,55 +102,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-
-<br/>
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavSharma1008&theme=github_dark"
-  alt="Pranav Sharma GitHub Contribution Activity"
-  width="100%"
-/>
-
-</div>
-
-<br/>
-
-<!-- ======================= GITHUB STREAK ======================= -->
-
-<h2 align="center">🔥 My GitHub Streak</h2>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=PranavSharma1008&background=0D1117&ring=238636&fire=2EA043&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2EA043&sideLabels=58A6FF&dates=8B949E&hide_border=false"
-    alt="Pranav Sharma GitHub Streak"
-    width="700"
-  />
-</p>
-
-<br/>
-
-<!-- ======================= LANGUAGES ======================= -->
-
-<h2 align="center">🧠 Most Used Languages</h2>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavSharma1008&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
 
 <br/>
 
