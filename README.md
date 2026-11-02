@@ -180,6 +180,44 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/PranavSharma1008?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📂_View_All_Projects_%26_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects & Repositories" />
+  </a>
+  <a href="https://pranavsharmaportfolio.vercel.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Showcase_on_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9D" alt="Interactive Showcase on Portfolio" />
+  </a>
+</p>
+
+<details align="center">
+  <summary><b>🔍 Click to view more repositories & archives</b></summary>
+  <br/>
+  <table align="center" width="90%">
+    <tr>
+      <td width="50%">
+        <b><a href="https://github.com/PranavSharma1008/Daily_Task_Tracker">📅 Daily Task Tracker</a></b><br/>
+        Cross-device high-alert task and priority manager with zero external dependencies.
+      </td>
+      <td width="50%">
+        <b><a href="https://github.com/PranavSharma1008/JavaNotes">☕ Java DSA Repository</a></b><br/>
+        Complete Java Data Structures & Algorithms notes, implementations, and solutions.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <b><a href="https://github.com/PranavSharma1008/Certificates">📜 Verified Credentials</a></b><br/>
+        Official software engineering, problem-solving, and hackathon certificates.
+      </td>
+      <td width="50%">
+        <b><a href="https://github.com/PranavSharma1008/TypingAchievements">⌨️ Typing Achievements</a></b><br/>
+        Speed typing benchmarks, Monkeytype logs, and TypeMaster certifications.
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br/>
+
 <!-- ======================= SNAKE ANIMATION ======================= -->
 
 <h2 align="center">🐍 Contribution Graph Snake Animation</h2>
