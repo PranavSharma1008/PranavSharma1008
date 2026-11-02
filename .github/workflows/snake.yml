@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -24,7 +21,20 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Validate generated snake has activity
+        id: check_snake
+        run: |
+          FILE_SIZE=$(wc -c < dist/github-contribution-grid-snake-dark.svg)
+          echo "Generated snake dark SVG size: $FILE_SIZE bytes"
+          if [ "$FILE_SIZE" -gt 30000 ]; then
+            echo "valid=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "valid=false" >> "$GITHUB_OUTPUT"
+            echo "::warning ::Snake SVG is under 30KB (0 contributions returned by GitHub API). Skipping deploy to preserve existing animated snake."
+          fi
+
       - name: Push to output branch
+        if: steps.check_snake.outputs.valid == 'true'
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
