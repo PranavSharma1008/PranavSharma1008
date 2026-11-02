@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://pranavsharmaportfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=620&height=50&lines=Software+Engineer+%7C+Full+Stack+Developer+%F0%9F%9A%80;Passionate+Problem+Solver+(DSA+%26+LeetCode)+%F0%9F%A7%A0;Low-Latency+Systems+%26+P2P+Architectures+%E2%9A%A1;85+WPM+Touch+Typist+%E2%8C%A8%EF%B8%8F+%7C+Open+Source+Builder+%E2%9C%A8;Explore+my+portfolio+%40+pranavsharmaportfolio.vercel.app" alt="Animated Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=750&height=50&lines=Software+Engineer+%7C+Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%E2%80%A2+DSA+%26+Low-Latency+Systems+%E2%9A%A1;85+WPM+Peak+Touch+Typist+(100%25+Accuracy)+%E2%8C%A8%EF%B8%8F;Explore+Portfolio+%40+pranavsharmaportfolio.vercel.app+%E2%9C%A8" alt="Animated Typing Banner" />
   </a>
 </p>
 
@@ -217,13 +217,7 @@
 
 <!-- ======================= CODING ACTIVITY & STATS ======================= -->
 
-<h2 align="center">📊 Algorithmic Activity & Stats</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/SharmaPranav1008/">
-    <img src="https://leetcard.jacoblin.cool/SharmaPranav1008?theme=dark&font=Karma" alt="Pranav Sharma LeetCode Stats" />
-  </a>
-</p>
+<h2 align="center">📊 GitHub Activity & Streaks</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PranavSharma1008&theme=tokyonight&hide_border=true" alt="Pranav Sharma GitHub Streak" />
