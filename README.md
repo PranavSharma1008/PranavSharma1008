@@ -202,9 +202,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/output/github-contribution-grid-snake.svg?raw=true" width="100%" />
   </picture>
 </p>
 
@@ -217,9 +217,22 @@
 </p>
 
 <p align="center">
-  <b>💻 Keep Learning • Keep Building • Keep Growing 🚀</b>
+  <b>💼 Looking for a Software Engineer who ships clean, high-performance code?</b><br/>
+  <i>Open to Full-Time Software Engineering & Backend Roles • Let's build something impactful together!</i>
 </p>
 
 <p align="center">
-  ⭐ Crafted with passion by <a href="https://github.com/PranavSharma1008" target="_blank"><b>Pranav Sharma</b></a> • Thanks for visiting!
+  <a href="mailto:pranav2410991479@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Get_In_Touch_/_Hire_Me-00FF9D?style=for-the-badge&logo=gmail&logoColor=black" alt="Hire Me" />
+  </a>
+  <a href="https://pranavsharmaportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Live_Resume_%26_Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Resume" />
+  </a>
+  <a href="https://linkedin.com/in/pranavsharma1008" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Designed & Built with passion by <a href="https://github.com/PranavSharma1008" target="_blank"><b>Pranav Sharma</b></a>
 </p>
