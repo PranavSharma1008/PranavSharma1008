@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://pranavsharmaportfolio.vercel.app">
+  <a href="https://pranavsharmaportfolio.vercel.app" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=750&height=50&lines=Software+Engineer+%7C+Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%E2%80%A2+DSA+%26+Low-Latency+Systems+%E2%9A%A1;85+WPM+Peak+Touch+Typist+(100%25+Accuracy)+%E2%8C%A8%EF%B8%8F;Explore+Portfolio+%40+pranavsharmaportfolio.vercel.app+%E2%9C%A8" alt="Animated Typing Banner" />
   </a>
 </p>
@@ -77,10 +77,10 @@
 ```
 
 - 🎓 **Computer Science Engineering Student** with a solid foundation in core computer science principles.
-- 💡 **Algorithmic Problem Solver**: Consistent problem-solving across [LeetCode](https://leetcode.com/u/SharmaPranav1008/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/pranav241xhnk), mastering Dynamic Programming, Trees, Graphs, and Greedy algorithms.
+- 💡 **Algorithmic Problem Solver**: Consistent problem-solving across <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank">LeetCode</a> and <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank">GeeksforGeeks</a>, mastering Dynamic Programming, Trees, Graphs, and Greedy algorithms.
 - 🚀 **Full-Stack & Systems Builder**: Passionate about developing scalable, high-throughput applications, peer-to-peer file transfer protocols, and productivity tools.
-- ⌨️ **Touch Typist**: Clocked a personal best of **85 WPM with 100% accuracy** on [Monkeytype](https://monkeytype.com/profile/SharmaPranav1008).
-- 📺 **Content Creator**: Sharing programming tutorials, problem breakdowns, and software development walkthroughs on YouTube at [**@badshahcoder1008**](https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk).
+- ⌨️ **Touch Typist**: Clocked a personal best of **85 WPM with 100% accuracy** on <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank">Monkeytype</a>.
+- 📺 **Content Creator**: Sharing programming tutorials, problem breakdowns, and software development walkthroughs on YouTube at <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><b>@badshahcoder1008</b></a>.
 - 🧠 **Strong Theoretical Core**: Deeply immersed in **OOP, System Design, Operating Systems, Computer Networks, and DBMS**.
 
 <br/>
@@ -113,7 +113,7 @@
         <code>Python</code> • <code>TCP Sockets</code> • <code>Flask</code> • <code>Web UI</code>
       </p>
       <p align="center">
-        <a href="https://github.com/PranavSharma1008/FlashDrop"><b>View Code ↗</b></a>
+        <a href="https://github.com/PranavSharma1008/FlashDrop" target="_blank"><b>View Code ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -124,7 +124,7 @@
         <code>Chrome MV3</code> • <code>React 18</code> • <code>TypeScript</code> • <code>IndexedDB</code>
       </p>
       <p align="center">
-        <a href="https://github.com/PranavSharma1008/RecalLc"><b>View Code ↗</b></a>
+        <a href="https://github.com/PranavSharma1008/RecalLc" target="_blank"><b>View Code ↗</b></a>
       </p>
     </td>
   </tr>
@@ -137,7 +137,7 @@
         <code>Chrome MV3</code> • <code>TypeScript</code> • <code>Monaco</code> • <code>Vitest</code>
       </p>
       <p align="center">
-        <a href="https://github.com/PranavSharma1008/LeetComete"><b>View Code ↗</b></a>
+        <a href="https://github.com/PranavSharma1008/LeetComete" target="_blank"><b>View Code ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -148,7 +148,7 @@
         <code>Spring Boot</code> • <code>Java 17</code> • <code>React</code> • <code>MongoDB</code>
       </p>
       <p align="center">
-        <a href="https://github.com/PranavSharma1008/CampusFix"><b>View Code ↗</b></a>
+        <a href="https://github.com/PranavSharma1008/CampusFix" target="_blank"><b>View Code ↗</b></a>
       </p>
     </td>
   </tr>
@@ -161,7 +161,7 @@
         <code>React</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>MongoDB</code>
       </p>
       <p align="center">
-        <a href="https://github.com/PranavSharma1008/BloodOcean"><b>View Code ↗</b></a>
+        <a href="https://github.com/PranavSharma1008/BloodOcean" target="_blank"><b>View Code ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -172,7 +172,7 @@
         <code>Raspberry Pi</code> • <code>TensorFlow Lite</code> • <code>OpenCV</code> • <code>Python</code>
       </p>
       <p align="center">
-        <a href="https://pranavsharmaportfolio.vercel.app"><b>Demo in Portfolio ↗</b></a>
+        <a href="https://pranavsharmaportfolio.vercel.app" target="_blank"><b>Demo in Portfolio ↗</b></a>
       </p>
     </td>
   </tr>
@@ -195,21 +195,21 @@
   <table align="center" width="90%">
     <tr>
       <td width="50%">
-        <b><a href="https://github.com/PranavSharma1008/Daily_Task_Tracker">📅 Daily Task Tracker</a></b><br/>
+        <b><a href="https://github.com/PranavSharma1008/Daily_Task_Tracker" target="_blank">📅 Daily Task Tracker</a></b><br/>
         Cross-device high-alert task and priority manager with zero external dependencies.
       </td>
       <td width="50%">
-        <b><a href="https://github.com/PranavSharma1008/JavaNotes">☕ Java DSA Repository</a></b><br/>
+        <b><a href="https://github.com/PranavSharma1008/JavaNotes" target="_blank">☕ Java DSA Repository</a></b><br/>
         Complete Java Data Structures & Algorithms notes, implementations, and solutions.
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <b><a href="https://github.com/PranavSharma1008/Certificates">📜 Verified Credentials</a></b><br/>
+        <b><a href="https://github.com/PranavSharma1008/Certificates" target="_blank">📜 Verified Credentials</a></b><br/>
         Official software engineering, problem-solving, and hackathon certificates.
       </td>
       <td width="50%">
-        <b><a href="https://github.com/PranavSharma1008/TypingAchievements">⌨️ Typing Achievements</a></b><br/>
+        <b><a href="https://github.com/PranavSharma1008/TypingAchievements" target="_blank">⌨️ Typing Achievements</a></b><br/>
         Speed typing benchmarks, Monkeytype logs, and TypeMaster certifications.
       </td>
     </tr>
@@ -243,5 +243,5 @@
 </p>
 
 <p align="center">
-  ⭐ Crafted with passion by <a href="https://github.com/PranavSharma1008"><b>Pranav Sharma</b></a> • Thanks for visiting!
+  ⭐ Crafted with passion by <a href="https://github.com/PranavSharma1008" target="_blank"><b>Pranav Sharma</b></a> • Thanks for visiting!
 </p>
