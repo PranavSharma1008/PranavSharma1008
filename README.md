@@ -28,35 +28,13 @@
 
 <h2 align="center">🌐 Connect With Me & Coding Profiles</h2>
 
-<p align="center">
-  <a href="https://pranavsharmaportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pranavsharmaportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/pranavsharma1008" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/PranavSharma1008" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-PranavSharma1008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Badshah%20Coder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-SharmaPranav1008-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-pranav241xhnk-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank">
-    <img src="https://img.shields.io/badge/Monkeytype-SharmaPranav1008-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype"/>
-  </a>
-  <a href="mailto:pranav2410991479@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pranav2410991479%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| Channel | Profiles & Direct Links |
+| :--- | :--- |
+| **🌐 Web Portfolio** | <a href="https://pranavsharmaportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pranavsharmaportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> |
+| **💼 Professional** | <a href="https://linkedin.com/in/pranavsharma1008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/PranavSharma1008" target="_blank"><img src="https://img.shields.io/badge/GitHub-PranavSharma1008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
+| **🧩 Problem Solving** | <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-SharmaPranav1008-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a> <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-pranav241xhnk-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a> |
+| **📹 Tech & Media** | <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><img src="https://img.shields.io/badge/YouTube-Badshah%20Coder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank"><img src="https://img.shields.io/badge/Monkeytype-SharmaPranav1008-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype"/></a> |
+| **📫 Direct Email** | <a href="mailto:pranav2410991479@gmail.com"><img src="https://img.shields.io/badge/Email-pranav2410991479%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> |
 
 <br/>
 
