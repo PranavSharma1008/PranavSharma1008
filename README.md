@@ -180,16 +180,6 @@
 
 <br/>
 
-<!-- ======================= CODING ACTIVITY & STATS ======================= -->
-
-<h2 align="center">📊 GitHub Activity & Streaks</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PranavSharma1008&theme=tokyonight&hide_border=true" alt="Pranav Sharma GitHub Streak" />
-</p>
-
-<br/>
-
 <!-- ======================= SNAKE ANIMATION ======================= -->
 
 <h2 align="center">🐍 Contribution Graph Snake Animation</h2>
