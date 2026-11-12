@@ -24,27 +24,6 @@
 
 <br/>
 
-<!-- ======================= VIDEO SHOWCASE ======================= -->
-
-<h2 align="center">🎬 Developer Showcase Reel</h2>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.mp4">
-    <img src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.gif" alt="Pranav Sharma - Developer Showcase Reel" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/▶_Watch_Full_HD_Video_(with_Audio)-00FF9D?style=for-the-badge&logo=youtube&logoColor=black" alt="Watch HD Video" />
-  </a>
-  <a href="https://github.com/PranavSharma1008/PranavSharma1008/blob/main/assets/profile-showcase.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Download_MP4_Reel-181717?style=for-the-badge&logo=github&logoColor=white" alt="MP4 Reel" />
-  </a>
-</p>
-
-<br/>
-
 <!-- ======================= CONNECT & PLATFORMS ======================= -->
 
 <h2 align="center">🌐 Connect With Me & Coding Profiles</h2>
@@ -220,7 +199,7 @@
     <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/badshahcoder1008?srtk=MWI5M2pjczhmMGRiZQ==" target="_blank">
-    <img src="https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/📸_Connect_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Connect on Instagram" />
   </a>
 </p>
 
