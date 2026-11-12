@@ -160,15 +160,15 @@
 
 <br/>
 
-<!-- ======================= SNAKE ANIMATION ======================= -->
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
 
-<h2 align="center">🐍 Contribution Graph Snake Animation</h2>
+<h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
