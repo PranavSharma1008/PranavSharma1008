@@ -24,6 +24,27 @@
 
 <br/>
 
+<!-- ======================= VIDEO SHOWCASE ======================= -->
+
+<h2 align="center">🎬 Developer Showcase Reel</h2>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.mp4">
+    <img src="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.gif" alt="Pranav Sharma - Developer Showcase Reel" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/profile-showcase.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_Full_HD_Video_(with_Audio)-00FF9D?style=for-the-badge&logo=youtube&logoColor=black" alt="Watch HD Video" />
+  </a>
+  <a href="https://github.com/PranavSharma1008/PranavSharma1008/blob/main/assets/profile-showcase.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Download_MP4_Reel-181717?style=for-the-badge&logo=github&logoColor=white" alt="MP4 Reel" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ======================= CONNECT & PLATFORMS ======================= -->
 
 <h2 align="center">🌐 Connect With Me & Coding Profiles</h2>
@@ -33,7 +54,7 @@
 | **🌐&nbsp;Web&nbsp;Portfolio** | <a href="https://pranavsharmaportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pranavsharmaportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> |
 | **💼&nbsp;Professional** | <a href="https://linkedin.com/in/pranavsharma1008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/PranavSharma1008" target="_blank"><img src="https://img.shields.io/badge/GitHub-PranavSharma1008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
 | **🧩&nbsp;Problem&nbsp;Solving** | <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-SharmaPranav1008-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a> <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-pranav241xhnk-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a> |
-| **📹&nbsp;Tech&nbsp;&&nbsp;Media** | <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><img src="https://img.shields.io/badge/YouTube-Badshah%20Coder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank"><img src="https://img.shields.io/badge/Monkeytype-SharmaPranav1008-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype"/></a> |
+| **📹&nbsp;Tech&nbsp;&&nbsp;Media** | <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><img src="https://img.shields.io/badge/YouTube-Badshah%20Coder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://www.instagram.com/badshahcoder1008?srtk=MWI5M2pjczhmMGRiZQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-badshahcoder1008-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank"><img src="https://img.shields.io/badge/Monkeytype-SharmaPranav1008-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype"/></a> |
 | **📫&nbsp;Direct&nbsp;Email** | <a href="mailto:pranav2410991479@gmail.com"><img src="https://img.shields.io/badge/Email-pranav2410991479%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> |
 
 <br/>
@@ -50,6 +71,7 @@
   "focus": "Data Structures & Algorithms, Backend & High-Performance Systems",
   "typing_speed": "85 WPM Peak • 100% Accuracy (MacBook Air M2)",
   "youtube_channel": "@badshahcoder1008 (Coding, Tech & Tutorials)",
+  "instagram": "@badshahcoder1008",
   "location": "India 🇮🇳"
 }
 ```
@@ -58,7 +80,7 @@
 - 💡 **Algorithmic Problem Solver**: Consistent problem-solving across <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank">LeetCode</a> and <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank">GeeksforGeeks</a>, mastering Dynamic Programming, Trees, Graphs, and Greedy algorithms.
 - 🚀 **Full-Stack & Systems Builder**: Passionate about developing scalable, high-throughput applications, peer-to-peer file transfer protocols, and productivity tools.
 - ⌨️ **Touch Typist**: Clocked a personal best of **85 WPM with 100% accuracy** on <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank">Monkeytype</a>.
-- 📺 **Content Creator**: Sharing programming tutorials, problem breakdowns, and software development walkthroughs on YouTube at <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><b>@badshahcoder1008</b></a>.
+- 📺 **Content Creator**: Sharing programming tutorials, problem breakdowns, and software development walkthroughs on YouTube at <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><b>@badshahcoder1008</b></a> and Instagram at <a href="https://www.instagram.com/badshahcoder1008?srtk=MWI5M2pjczhmMGRiZQ==" target="_blank"><b>@badshahcoder1008</b></a>.
 - 🧠 **Strong Theoretical Core**: Deeply immersed in **OOP, System Design, Operating Systems, Computer Networks, and DBMS**.
 
 <br/>
@@ -192,6 +214,9 @@
   </a>
   <a href="https://linkedin.com/in/pranavsharma1008" target="_blank">
     <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/badshahcoder1008?srtk=MWI5M2pjczhmMGRiZQ==" target="_blank">
+    <img src="https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
