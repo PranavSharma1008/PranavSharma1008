@@ -64,12 +64,12 @@
 
     <!-- Circular Gauge Active Solved Highlights -->
     <path d="M 179.04 263.96 A 135 135 0 0 1 159.77 239.66" stroke="#58b8b9" stroke-width="11" stroke-linecap="round" />
-    <path d="M 146.90 124.43 A 135 135 0 0 1 153.38 108.88" stroke="#f4ba40" stroke-width="11" stroke-linecap="round" />
+    <path d="M 146.90 124.43 A 135 135 0 0 1 153.45 108.74" stroke="#f4ba40" stroke-width="11" stroke-linecap="round" />
     <circle cx="401.38" cy="122.39" r="5.5" fill="#e24a41" />
 
     <!-- Center Gauge Numbers -->
     <g transform="translate(0, 0)">
-      <text x="256" y="145" class="center-total">316</text>
+      <text x="256" y="145" class="center-total">317</text>
       <text x="256" y="151" class="center-max">/4114</text>
       
       <!-- Checkmark + Solved centered as a group -->
@@ -94,7 +94,7 @@
     <g transform="translate(531, 127)">
       <rect width="161" height="78" rx="10" class="pill-bg" />
       <text x="80.5" y="27" class="text-title" fill="#f4ba40">Med.</text>
-      <text x="80.5" y="56" class="text-ratio">109/2148</text>
+      <text x="80.5" y="56" class="text-ratio">110/2148</text>
     </g>
 
     <!-- Hard Pill -->
