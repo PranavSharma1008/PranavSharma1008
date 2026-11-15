@@ -1,0 +1,37 @@
+name: Sync LeetCode Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate LeetCode Stats Card
+        run: python3 scripts/generate_leetcode_card.py
+
+      - name: Commit and push if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/leetcode-stats.svg
+          if git diff --staged --quiet; then
+            echo "No changes in LeetCode stats."
+          else
+            git commit -m "Auto-sync: update LeetCode profile stats card [skip ci]"
+            git push origin main
+          fi

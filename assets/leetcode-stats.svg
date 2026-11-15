@@ -1,0 +1,108 @@
+<svg width="714" height="326" viewBox="0 0 714 326" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg {
+      fill: #282828;
+    }
+    .pill-bg {
+      fill: #353535;
+    }
+    .text-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 600;
+      font-size: 19px;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .text-ratio {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 21px;
+      fill: #FFFFFF;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .center-total {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 52px;
+      fill: #FFFFFF;
+      text-anchor: end;
+      dominant-baseline: central;
+    }
+    .center-max {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 500;
+      font-size: 32px;
+      fill: #8A8A8A;
+      text-anchor: start;
+      dominant-baseline: central;
+    }
+    .center-solved {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 600;
+      font-size: 22px;
+      fill: #FFFFFF;
+      dominant-baseline: central;
+    }
+    .center-attempting {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+      fill: #8A8A8A;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+  </style>
+
+  <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank" rel="noopener noreferrer">
+    <!-- Card Container -->
+    <rect width="714" height="326" rx="16" class="card-bg" />
+
+    <!-- Circular Gauge Background Tracks -->
+    <path d="M 179.04 263.96 A 135 135 0 0 1 146.90 124.43" stroke="#3c504a" stroke-width="11" stroke-linecap="round" />
+    <path d="M 146.90 124.43 A 135 135 0 0 1 401.38 122.39" stroke="#51452d" stroke-width="11" stroke-linecap="round" />
+    <path d="M 401.38 122.39 A 135 135 0 0 1 369.96 263.96" stroke="#4d2f2d" stroke-width="11" stroke-linecap="round" />
+
+    <!-- Circular Gauge Active Solved Highlights -->
+    <path d="M 179.04 263.96 A 135 135 0 0 1 159.77 239.66" stroke="#58b8b9" stroke-width="11" stroke-linecap="round" />
+    <path d="M 146.90 124.43 A 135 135 0 0 1 153.38 108.88" stroke="#f4ba40" stroke-width="11" stroke-linecap="round" />
+    <circle cx="401.38" cy="122.39" r="5.5" fill="#e24a41" />
+
+    <!-- Center Gauge Numbers -->
+    <g transform="translate(0, 0)">
+      <text x="256" y="145" class="center-total">316</text>
+      <text x="256" y="151" class="center-max">/4114</text>
+      
+      <!-- Checkmark + Solved centered as a group -->
+      <g transform="translate(226, 192)">
+        <path d="M 0 0 L 6 6 L 16 -6" stroke="#2cbb5d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <text x="24" y="0" class="center-solved">Solved</text>
+      </g>
+
+      <!-- Attempting count -->
+      <text x="274.5" y="242" class="center-attempting">9 Attempting</text>
+    </g>
+
+    <!-- Right Difficulty Pill Cards -->
+    <!-- Easy Pill -->
+    <g transform="translate(531, 33)">
+      <rect width="161" height="78" rx="10" class="pill-bg" />
+      <text x="80.5" y="27" class="text-title" fill="#58b8b9">Easy</text>
+      <text x="80.5" y="56" class="text-ratio">201/976</text>
+    </g>
+
+    <!-- Medium Pill -->
+    <g transform="translate(531, 127)">
+      <rect width="161" height="78" rx="10" class="pill-bg" />
+      <text x="80.5" y="27" class="text-title" fill="#f4ba40">Med.</text>
+      <text x="80.5" y="56" class="text-ratio">109/2148</text>
+    </g>
+
+    <!-- Hard Pill -->
+    <g transform="translate(531, 221)">
+      <rect width="161" height="78" rx="10" class="pill-bg" />
+      <text x="80.5" y="27" class="text-title" fill="#e24a41">Hard</text>
+      <text x="80.5" y="56" class="text-ratio">6/990</text>
+    </g>
+  </a>
+</svg>
