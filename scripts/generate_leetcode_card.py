@@ -208,9 +208,8 @@ def generate_svg(stats):
     }}
   </style>
 
-  <a href="https://leetcode.com/u/{USERNAME}/" target="_blank" rel="noopener noreferrer">
-    <!-- Card Container -->
-    <rect width="714" height="326" rx="16" class="card-bg" />
+  <!-- Card Container -->
+  <rect width="714" height="326" rx="16" class="card-bg" />
 
     <!-- Circular Gauge Background Tracks -->
     <path d="{track_easy}" stroke="#3c504a" stroke-width="11" stroke-linecap="round" />
@@ -258,7 +257,6 @@ def generate_svg(stats):
       <text x="80.5" y="27" class="text-title" fill="#e24a41">Hard</text>
       <text x="80.5" y="56" class="text-ratio">{stats['hard_solved']}/{stats['hard_total']}</text>
     </g>
-  </a>
 </svg>
 """
     return svg

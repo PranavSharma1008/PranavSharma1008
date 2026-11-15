@@ -56,3 +56,4 @@
 - Created GitHub Actions workflow `.github/workflows/leetcode-sync.yml` to automatically refresh stats every 6 hours.
 - Integrated LeetCode card in `README.md` after Snake Animation and before the footer pitch, linked to `https://leetcode.com/u/SharmaPranav1008/`.
 - Halved the speed of the contribution snake animation (doubled duration from 74.5s to 149s) across dark and light SVG assets and automated in `.github/workflows/snake.yml`.
+- Removed nested SVG anchor wrapper in `assets/leetcode-stats.svg` to prevent browser click event swallowing and ensure seamless profile navigation.

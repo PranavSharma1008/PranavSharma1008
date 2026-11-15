@@ -54,9 +54,8 @@
     }
   </style>
 
-  <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank" rel="noopener noreferrer">
-    <!-- Card Container -->
-    <rect width="714" height="326" rx="16" class="card-bg" />
+  <!-- Card Container -->
+  <rect width="714" height="326" rx="16" class="card-bg" />
 
     <!-- Circular Gauge Background Tracks -->
     <path d="M 179.04 263.96 A 135 135 0 0 1 146.90 124.43" stroke="#3c504a" stroke-width="11" stroke-linecap="round" />
@@ -104,5 +103,4 @@
       <text x="80.5" y="27" class="text-title" fill="#e24a41">Hard</text>
       <text x="80.5" y="56" class="text-ratio">6/990</text>
     </g>
-  </a>
 </svg>
