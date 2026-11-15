@@ -55,3 +55,4 @@
 - Built `scripts/generate_leetcode_card.py` querying LeetCode GraphQL API to generate pixel-accurate `assets/leetcode-stats.svg`.
 - Created GitHub Actions workflow `.github/workflows/leetcode-sync.yml` to automatically refresh stats every 6 hours.
 - Integrated LeetCode card in `README.md` after Snake Animation and before the footer pitch, linked to `https://leetcode.com/u/SharmaPranav1008/`.
+- Halved the speed of the contribution snake animation (doubled duration from 74.5s to 149s) across dark and light SVG assets and automated in `.github/workflows/snake.yml`.

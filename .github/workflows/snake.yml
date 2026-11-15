@@ -21,6 +21,21 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Halve snake animation speed
+        run: |
+          python3 -c "
+          import re, glob
+          for svg in glob.glob('dist/*.svg'):
+              with open(svg, 'r', encoding='utf-8') as f:
+                  content = f.read()
+              def halve_speed(m):
+                  ms = int(m.group(1)) * 2
+                  return m.group(0).replace(f'{m.group(1)}ms', f'{ms}ms')
+              new_content = re.sub(r'animation:[^;}]*?(\d+)ms', halve_speed, content)
+              with open(svg, 'w', encoding='utf-8') as f:
+                  f.write(new_content)
+          "
+
       - name: Validate generated snake has activity
         id: check_snake
         run: |
