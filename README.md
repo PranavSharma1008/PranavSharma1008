@@ -15,14 +15,14 @@
 
 <p align="center">
   <a href="https://pranavsharmaportfolio.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=750&height=50&lines=Frontend+Developer+%7C+Software+Engineer+%F0%9F%9A%80;Problem+Solver+%E2%80%A2+Frontend+Engineering+%26+DSA+%E2%9A%A1;85+WPM+Peak+Touch+Typist+(100%25+Accuracy)+%E2%8C%A8%EF%B8%8F;Explore+Portfolio+%40+pranavsharmaportfolio.vercel.app+%E2%9C%A8" alt="Animated Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=750&height=50&lines=Full+Stack+Developer+%7C+Software+Engineer+%F0%9F%9A%80;Problem+Solver+%E2%80%A2+Full+Stack+Engineering+%26+DSA+%E2%9A%A1;85+WPM+Peak+Touch+Typist+(100%25+Accuracy)+%E2%8C%A8%EF%B8%8F;Explore+Portfolio+%40+pranavsharmaportfolio.vercel.app+%E2%9C%A8" alt="Animated Typing Banner" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PranavSharma1008&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C7B7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20DSA-FFA116?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20DSA-FFA116?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
 </p>
 
 <br/>
@@ -54,10 +54,10 @@ class Developer {
 
   constructor() {
     this.name = "Pranav Sharma";
-    this.role = "Frontend Developer | Computer Science Engineering";
+    this.role = "Full Stack Developer | Computer Science Engineering";
     this.status = "Open to Opportunities";
     this.location = "India 🇮🇳";
-    this.focus = "Frontend";
+    this.focus = "Full Stack";
   }
 
   philosophy() {
@@ -70,7 +70,7 @@ class Developer {
 
 - 🎓 **Computer Science Engineering Student** with a solid foundation in core computer science principles.
 - 💡 **Algorithmic Problem Solver**: Consistent problem-solving across <a href="https://leetcode.com/u/SharmaPranav1008/" target="_blank">LeetCode</a> and <a href="https://www.geeksforgeeks.org/profile/pranav241xhnk" target="_blank">GeeksforGeeks</a>, mastering Dynamic Programming, Trees, Graphs, and Greedy algorithms.
-- 🚀 **Frontend Developer & UI Builder**: Passionate about developing modern, responsive, high-performance web applications and intuitive user interfaces.
+- 🚀 **Full Stack Developer & Systems Builder**: Passionate about developing scalable end-to-end web applications, robust backends, and responsive user interfaces.
 - ⌨️ **Touch Typist**: Clocked a personal best of **85 WPM with 100% accuracy** on <a href="https://monkeytype.com/profile/SharmaPranav1008" target="_blank">Monkeytype</a>.
 - 📺 **Content Creator**: Sharing programming tutorials, problem breakdowns, and software development walkthroughs on YouTube at <a href="https://youtube.com/@badshahcoder1008?si=lBSLPoZcr_NFx_kk" target="_blank"><b>@badshahcoder1008</b></a> and Instagram at <a href="https://www.instagram.com/badshahcoder1008?srtk=MWI5M2pjczhmMGRiZQ==" target="_blank"><b>@badshahcoder1008</b></a>.
 - 🧠 **Strong Theoretical Core**: Deeply immersed in **OOP, System Design, Operating Systems, Computer Networks, and DBMS**.
@@ -199,8 +199,8 @@ class Developer {
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-  <b>💼 Looking for a Frontend Engineer who builds clean, responsive web experiences?</b><br/>
-  <i>Open to Full-Time Frontend Engineering Roles • Let's build something impactful together!</i>
+  <b>💼 Looking for a Full Stack Engineer who builds scalable, end-to-end web solutions?</b><br/>
+  <i>Open to Full-Time Full Stack / Software Engineering Roles • Let's build something impactful together!</i>
 </p>
 
 <p align="center">
