@@ -3,11 +3,11 @@
 ## 1. Project Overview
 - **Owner**: Pranav Sharma
 - **Repository**: `PranavSharma1008/PranavSharma1008` (Special GitHub profile repository)
-- **Role Alignment**: Dedicated **Frontend Engineer / Frontend Developer** with a strong foundation in Computer Science & DSA.
-- **Purpose**: Showcase frontend engineering competencies, responsive UI/UX projects, DSA problem-solving, and contact channels.
+- **Role Alignment**: Dedicated **Full Stack Engineer / Full Stack Developer** with a strong foundation in Computer Science & DSA.
+- **Purpose**: Showcase full-stack engineering competencies, end-to-end web architectures, DSA problem-solving, and contact channels.
 
 ## 2. Tech Stack & Tools
-- **Core Focus**: Frontend Engineering (React, JavaScript, Tailwind CSS, HTML5/CSS3, TypeScript).
+- **Core Focus**: Full Stack Engineering & Systems (React, Node.js, Express, MongoDB, MySQL, TypeScript, Tailwind CSS, Python/Java).
 - **Markdown / HTML**: GitHub Flavored Markdown (GFM) with aligned HTML elements.
 - **Badges**: Shields.io custom styled badges.
 - **Dynamic Assets**: GitHub Readme Typing SVG, Contribution Snake Animation (`assets/github-contribution-grid-snake-dark.svg`), Dynamic LeetCode Profile Statistics Card (`assets/leetcode-stats.svg`).
@@ -18,10 +18,10 @@
 
 ## 3. Architecture & Section Layout
 1. **Header Banner**: Dynamic machine animation banner (`https://raw.githubusercontent.com/PranavSharma1008/PranavSharma1008/main/assets/machine.gif`).
-2. **Typing Intro & Status Badges**: Profile views, Open To Work, Frontend & DSA badges.
+2. **Typing Intro & Status Badges**: Profile views, Open To Work, Full Stack & DSA badges.
 3. **Connect & Platforms**: Portfolio, Resume (`Resume | Print PDF`), LinkedIn, GitHub, LeetCode, GFG, YouTube, Instagram, Monkeytype, Email.
 4. **About Me**:
-   - Class-based JavaScript representation (`class Developer`) focused exclusively on Frontend details (`name`, `role: Frontend Developer`, `status`, `location`, `focus: Frontend`) and `philosophy()`.
+   - Class-based JavaScript representation (`class Developer`) focused on Full Stack engineering (`name`, `role: Full Stack Developer`, `status`, `location`, `focus: Full Stack`) and `philosophy()`.
    - Right-aligned animated coffee/desk GIF expanded to `width="420"` side-by-side with code block and `<br clear="right"/>`.
    - Core engineering highlights and bullet points.
 5. **Tech Stack & Engineering Competencies**: Languages, Frontend, Backend & DB, DevOps & Cloud, Core CS.
@@ -35,11 +35,11 @@
    - Exact replica of the official LeetCode profile widget: 270° multi-colored circular gauge (316/4114 Solved, green checkmark Solved, 9 Attempting) and 3 pill cards (Easy 201/976, Med. 109/2148, Hard 6/990).
    - Automatically updated every 6 hours via GitHub Actions (`.github/workflows/leetcode-sync.yml`).
 9. **Footer**:
-   - Contact action buttons and Frontend Engineer hiring pitch.
+   - Contact action buttons and Full Stack Engineer hiring pitch.
    - Get In Touch / Hire Me, View Resume (PDF), Web Portfolio, Connect on LinkedIn, Connect on Instagram.
 
 ## 4. Important Decisions
-- **Frontend Focus**: Profile is tailored specifically for Frontend Engineering roles across banners, badges, About Me class, and footer.
+- **Full Stack Alignment**: Profile is tailored for Full Stack Engineering roles across banners, badges, About Me class, and footer.
 - **Color Palette & Eye Comfort**: Removed high-glare neon green (`#00FF9D`) badges and the waving footer bar. Transitioned badges to soothing, professional brand tones (Gmail Red `#EA4335`, Google Blue `#4285F4`, and Teal `#00C7B7`) for comfortable dark mode reading without eye strain.
 - **Visual Section Sequence**: Contribution Graph Snake Animation is followed directly by the LeetCode stats card, which in turn leads into the Frontend Engineer hiring footer.
 - **Official LeetCode Card Replica**: Generated via Python script querying LeetCode's public GraphQL API for matched user submission and question progress stats. Completely self-hosted SVG within the repository to eliminate third-party downtime and rate limits.
@@ -48,8 +48,8 @@
 ## 5. Completed Tasks
 - Expanded coffee animation GIF width to `420px`.
 - Removed `typing_speed`, `youtube_channel`, and `instagram` from `class Developer`.
-- Changed `focus` to `"Frontend"` and updated `role` to `"Frontend Developer"`.
-- Aligned entire README (typing SVG, badges, bullet points, footer) to Frontend Engineering.
+- Changed `focus` to `"Full Stack"` and updated `role` to `"Full Stack Developer"`.
+- Aligned entire README (typing SVG, badges, bullet points, footer) to Full Stack Engineering.
 - Added live Chrome Web Store buttons/links for **RecalLC** and **LeetComete** featured projects.
 - Restored Contribution Snake Animation in README.md.
 - Built `scripts/generate_leetcode_card.py` querying LeetCode GraphQL API to generate pixel-accurate `assets/leetcode-stats.svg`.
